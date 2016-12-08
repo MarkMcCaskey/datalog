@@ -34,8 +34,8 @@ library
                  hashable,
                  exceptions >= 0.5 && < 0.9,
                  text,
-                 transformers >= 0.3 && < 0.5,
-                 vector >= 0.9 && < 0.11
+                 transformers >= 0.3,
+                 vector >= 0.9
   hs-source-dirs: src
   ghc-options: -Wall -auto-all
 
